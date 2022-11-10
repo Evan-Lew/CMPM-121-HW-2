@@ -1,4 +1,4 @@
-# CMPM-121 HW 1 AND 2
+# CMPM-121 HW 2
 
 <p>HW #2: For the 4 lighting types I included a point light on the first floor of the Big House, a spotlight on the second floor, a directional light for the sun, and an area light in the Old House. All the lights besides the directional light represent a different type of candle. The day and night cycle was based on a Youtube tutorial I found. I also added a UI button that turns all 4 lights on/off/dim. For the 2D Texture emitter I included stink bubbles coming off a bucket in the Old House and flames coming off the candle in the second story. For the 3D Mesh emitter I have a firefly prefab that for the candle on the first floor of the Big House. I added objects around all the lighting to give off shadows. My idea for the whole scene is that the houses are empty right now of humans as the animals are having their meeting, but the humans are coming back soon as eivdent fomr the candles being lit.</p>
 
